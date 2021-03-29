@@ -1,0 +1,11 @@
+{
+  "name": "txt",
+  "version": "1.0.0",
+  "description": "lab3.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test,"
+  },
+  "author": "Diana",
+  "license": "ISC"
+}
